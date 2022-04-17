@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650233771 source:e:\progra1\ocurrencias\ocurrencias.c
+	"ocurrencias.h"
+	<stdio.h>
+
+1650209090 e:\progra1\ocurrencias\ocurrencias.h
+
